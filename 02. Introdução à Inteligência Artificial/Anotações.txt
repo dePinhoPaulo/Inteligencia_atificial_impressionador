@@ -1,0 +1,28 @@
+1. O que é Inteligência Artificial?
+
+    Grandes bases de dados;
+    Ponto de virada (Revolução)
+
+
+2. Como funciona a Inteligência Artificial?
+
+    6 Passos:
+        1 Modelo de dados  
+            Qual processo melhorar
+            quais vantagen da melhoria
+            Quais dados necessarios
+        2 Big data
+            Coleta e analisa a maior quantidade de dados
+        3 Poder de processamento
+            Compativel com a maquina que esta gerando.
+            Sempre sera maior que o processamento humano
+        4 Machine Learning
+            é como as maquinas aprendem
+            Ao processar dado do big data, são capazer de identicar padróes e aprender.
+        5 Deep Learning
+            aprofundamento do Machine Learning
+            capaz de tornar o aprendizado mais completo e inteligente
+        6 Processo de Linguagem Natural (PLN)
+            Permite comunicar o q a maquina aprendeu em linguagem coompreesivel pelo humanos
+            permite adaptar a linguagem usada de acordo com o expectador
+
