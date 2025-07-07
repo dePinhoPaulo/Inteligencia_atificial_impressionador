@@ -26,3 +26,36 @@
             Permite comunicar o q a maquina aprendeu em linguagem coompreesivel pelo humanos
             permite adaptar a linguagem usada de acordo com o expectador
 
+
+3. IA Generativa e Prompt:
+
+    Prompt: Texto de intrução para IA.
+
+
+4. Como IA pode te deixar mais produtivo
+
+    Algumas funcionalidades que IAs ja fazem:
+        Reconhecimento de voz;
+        Tomada de decisão;
+
+
+5. Algumas aplicações incríveis de IA
+
+    Waymo:
+        Carro totalmente autonomo;
+    Remodeled.ai:
+        Projeto arquitetonico por IA;
+
+
+6. Considerações sobre ética e IA
+
+    Use a ferreamenta com Responsabilidade.
+
+
+7. Como descobrir novas IAs
+
+    Google.ia
+    Microsoft.ia
+    OpenAi
+    Olhar Digital IA
+
