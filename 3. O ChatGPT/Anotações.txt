@@ -15,4 +15,25 @@
 
 3. Comparativo ChatGPT Gratuito x Pago
 
-    
+
+4. Conhecendo o ChatGPT
+
+    Barra lateral com chats:
+        Renomear conversas
+        Compartilhar conversas
+        Arquivar conversas
+    Personalizar ChatGPT:
+        Apresentar-se para respostar melhores
+    Cofigurações:
+        Tema
+        Idioma
+        Gerenciar chats arquivados
+    Fala
+    Selecionar Modelos - Pro
+
+
+5. Como aprender qualquer coisa com chatgpt
+
+    "Chat te dara o passo a passo para qualque tema"
+    "uma coisa que não ira fazer é emitir opnião"
+
