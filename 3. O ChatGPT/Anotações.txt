@@ -37,3 +37,24 @@
     "Chat te dara o passo a passo para qualque tema"
     "uma coisa que não ira fazer é emitir opnião"
 
+
+6. Pedir sugestões e conselhos para um especialista
+
+    "Tratar GPT como um especialista em determinado assunto"
+
+
+7. Formatar respostas
+
+    Topicos,
+    Redação,
+    Um paragrafo
+
+
+8. Escrever e-mails e outros textos
+
+    Criando emails completos.
+
+
+9. Revisar textos
+
+    
