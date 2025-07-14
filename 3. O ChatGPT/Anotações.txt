@@ -57,4 +57,19 @@
 
 9. Revisar textos
 
+
+10. Traduzir textos
+
+    "Gpt muito bom para tradução de textos"
+
+
+11. Passo a passo para realizar tarefas do trabalho
+
+    1- passo a passo
+    2- sugestoes dicas
+    3- ensinar com uma criaça
+
+
+12. Gerar nomes, senhas e bases de dados
+
     
