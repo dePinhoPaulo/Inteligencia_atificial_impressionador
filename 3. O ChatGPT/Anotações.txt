@@ -72,4 +72,31 @@
 
 12. Gerar nomes, senhas e bases de dados
 
+
+13. Gerar conteúdos para sites e mídias sociais
+    
+    Diverosos formatos e sujestões;
+
+
+14. E se a IA não responder o que quero?
+
+
+15. Encadeamento e conversas
+
+    conversas ficam armazenadas naquele chat
+
+
+16. Riscos de plágio
+
+    Ia aprendeu de algum lugar, as vezes pode utilizar trechos, e pode ser considerado plagio
+
+
+17. Alucinações de IA
+
+    talvez a IA possa falhar e falar algo sem sentido.
+    "Sempre revise"
+
+
+18. Analisar dados
+
     
