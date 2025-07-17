@@ -99,4 +99,22 @@
 
 18. Analisar dados
 
-    
+    Faça o upload da base,
+    faças as perguntas.
+
+
+19. Importante: confidencialidade dos arquivos que você envia
+
+    NUNCA enviar dados sensiveis
+
+
+20. Criar gráficos
+
+    Cria varios tipos de graficos;
+
+
+21. Analisar textos
+
+    upload de arquivo word para analisar texto;
+    (Quaquer arquivo de texto)
+
