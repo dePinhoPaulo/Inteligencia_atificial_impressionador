@@ -118,3 +118,17 @@
     upload de arquivo word para analisar texto;
     (Quaquer arquivo de texto)
 
+
+22. Analisar imagens e sites
+
+
+23. Gerar imagens com o GPT
+
+    Muita atnção nas criações de imagens, pode geralmente pode conter alguns erros.
+    Quanto meis detalhes melhor para criação.
+
+
+24. Explorando os GPTs
+
+    Agentes com propostas especificas.
+
