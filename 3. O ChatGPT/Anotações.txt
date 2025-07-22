@@ -132,3 +132,20 @@
 
     Agentes com propostas especificas.
 
+
+25. GPT para criar diagramas
+
+    Diagrams: Show me
+        Diagramas;
+        Mapas mentais;
+
+
+26. GPTs para criar, resumir e conversar com vídeos
+
+    Video Summarizer
+        resumir videos;
+        toda explicação do video;
+
+    Video GPT by VEED
+        Criar videos;
+        
