@@ -149,3 +149,24 @@
     Video GPT by VEED
         Criar videos;
         
+
+27. GPTs para criar e converter documentos
+
+    Doc Maker:
+        Criação de contrato;
+        Edição de documentos
+
+
+28. GPTs para criar logos e ícones de app
+
+    Criação de logos:
+        Logo Creator;
+        Sticker Wizard;
+
+
+29. GPTs para criar códigos (sites, programas e automações)
+
+    Programação:
+        Grimoire;
+        Screenshot To Code;
+
