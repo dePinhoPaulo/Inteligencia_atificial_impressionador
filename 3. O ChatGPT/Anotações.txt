@@ -170,3 +170,16 @@
         Grimoire;
         Screenshot To Code;
 
+
+30. Como criar seu próprio GPT (agente de IA)
+
+    Explore GPT > Create:
+        O que o GPT faz?
+        Nome do GPT;
+        Linguagem utilizada;
+        Eviando bases  e intruções;
+
+
+31. Poder de processamento do GPT 4
+
+    
