@@ -183,3 +183,14 @@
 31. Poder de processamento do GPT 4
 
     
+32. Descobrindo o novo ChatGPT 4o
+
+    Processamento de arquivos
+    Multi modal
+    celular
+
+
+33. Os modelos de raciocínio do ChatGPT 03-mini e 03-mini-high
+
+    Focado no raciocínio, (Programação, matemadica, medicina)
+
