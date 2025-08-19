@@ -1,0 +1,14 @@
+1. O que é a engenharia de prompt (prompt engineering)
+
+    Estruturar a pergunta para IA da melhor forma
+
+
+2. FECTAP – As 6 partes de um prompt perfeito
+
+    Formatação -> Especificar como voce quer sua respota
+    Exemplos -> exmplos do resultado que busca
+    Contextos -> explicação do porque do seu problema, maimo de informção para ia
+    Tom -> tom de resposta (formal, amigavel)
+    Ação -> Solução que voce está buscando
+    Persona -> Especialista que voce quer conversar 
+
