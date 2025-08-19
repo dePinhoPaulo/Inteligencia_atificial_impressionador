@@ -194,3 +194,12 @@
 
     Focado no raciocínio, (Programação, matemadica, medicina)
 
+
+34. Apresentando o novo GPT-5
+
+    é mais inteligente em todos aspectos
+    Identifica qual modelo certo para sua perguntas
+    selecionar modos de conversa
+    conectar contas (drive, github, gmail, etc) MAIS OPÇÕES NA VERSÃO PAGA
+    Opção de executar codigo dentro do chat
+    
