@@ -12,3 +12,23 @@
     Ação -> Solução que voce está buscando
     Persona -> Especialista que voce quer conversar 
 
+
+3. Verbos de ação
+
+    Verbo identifica o camando do propt, o resto é complemento.
+    Todo o comando é regido pelo verbo.
+
+
+4. Como reduzir ruídos
+
+    construir um prompt claro, com maximo de informações.
+
+
+5. Contexto e a importância de criar várias conversas no GPT
+
+    Contexto é fundamental em qualquer prompt, NÃO FAÇA PROMPTS RASOS
+    Um contexto bem aplicado muda totalmete a resposta da IA
+
+    os temas abordados de uma conversa fica limitado a ela.
+    Não aborde assuntos de um contexto de outra conversa.
+
