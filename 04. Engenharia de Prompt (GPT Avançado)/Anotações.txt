@@ -32,3 +32,17 @@
     os temas abordados de uma conversa fica limitado a ela.
     Não aborde assuntos de um contexto de outra conversa.
 
+
+6. Brainstorm
+
+    prompts para dar inspiração
+    Jogar ideias
+    Aplicando os fundamentos de um bom prompt, os resultado serão muito mais acertivos.
+
+
+7. Sala de Especialistas
+
+    Além de buscar ideias, utilizando Contexto:
+        Simule as opniões de vairos Especialists da area, para ajusdar no que voce busca.
+        Crie uma sala de conversa com especialista.
+    
