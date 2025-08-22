@@ -46,3 +46,17 @@
         Simule as opniões de vairos Especialists da area, para ajusdar no que voce busca.
         Crie uma sala de conversa com especialista.
     
+
+8. Realizando tarefas criativas e que envolvem sentimentos
+
+    Gerando historias com GPT
+    Anuncios;
+    Roteiro;
+
+
+9. Como argumentar melhor
+
+    Lenvantamento de Prós e Contras
+    Opnião do Chat
+    Exemplos de casos
+
