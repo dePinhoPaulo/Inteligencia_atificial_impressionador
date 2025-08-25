@@ -60,3 +60,18 @@
     Opnião do Chat
     Exemplos de casos
 
+
+10. Como aprender mais e melhor
+
+    fundamental o contextualiza a IA
+
+
+11. Aprendendo com associações
+
+    Associar temas que voce ja conhece para que a IA te explique com base no que ja sabe.
+
+
+12. Entendendo e melhorando o raciocínio da IA
+
+    Peça para IA explicar o raciocínio quela utilizou para chegar naquela resposta.
+
