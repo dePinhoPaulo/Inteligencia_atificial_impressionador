@@ -75,3 +75,13 @@
 
     Peça para IA explicar o raciocínio quela utilizou para chegar naquela resposta.
 
+
+13. Construindo ideias com a IA
+
+    A partir do contexto, persona, exemplos construir ideias.
+
+
+14. Prompts para escrever textos
+
+    utilizando FECTAP para construir prompt para postagem em redes sociais.
+
