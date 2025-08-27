@@ -1,0 +1,26 @@
+1. Gemini: Conhecendo a ferramenta
+
+    IA do google;
+    Apresentação;
+    Integrar IA com ferramentas do google;
+
+
+2. Gemini: Manipulando diferentes arquivos (imagens, textos, áudios, criação de imagens)
+
+    Usar micronofone para ourvir prompt;
+    Analisa Imgaens, textos, audios;
+    *Atualmente o gemini não é confiavel para analise de planilhas, bases de dados (Versão gratuita);
+    Criação de imagens;
+
+
+3. Gemini: Deep Research e Canvas
+
+    Avaliação da resposta:
+        Ajuda no treinameto do modelo.
+    Rascuinho de Email:
+        Ja cria um Email com a resposta gerada.
+    Checar resposta;
+    Deep Research:
+        Faz pesquisa aprofundada antes da resposta, com passo a passo da pesquisa.
+    Canvas:
+        Funcionalidade para criação de documento.
