@@ -24,3 +24,28 @@
         Faz pesquisa aprofundada antes da resposta, com passo a passo da pesquisa.
     Canvas:
         Funcionalidade para criação de documento.
+
+
+4. Gemini: Aprendizado Guiado
+
+    Funciona como um professor particular 
+
+
+5. Gemini: Apps, como integrar IA com Google Drive, Docs, Gmail e mais
+
+    Cofigurações > apps
+        Integra gemini a outras ferrementas do google;
+        Começar com @ no prompt para utilizar os outros apps;
+        Gmail, Calendar, agenda, docs, maps
+
+
+6. Gemini: Criando agentes de IA (Gems)
+
+    GEMS:
+        agentes como no GPT
+    
+
+7. Gemini: Conhecendo a versão paga (Gemini Advanced)
+
+    Mais opções de integrações com outros apps;
+    
