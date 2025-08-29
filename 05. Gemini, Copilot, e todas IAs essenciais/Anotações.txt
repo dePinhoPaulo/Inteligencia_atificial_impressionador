@@ -48,4 +48,18 @@
 7. Gemini: Conhecendo a versão paga (Gemini Advanced)
 
     Mais opções de integrações com outros apps;
-    
+
+
+8. Gemini: Integrações com Ferramentas Google
+
+    Gmail, Calendar, agenda, docs, maps
+
+
+9. Copilot: Conhecendo a ferramenta
+
+    IA da Microsoft
+    Parceria com GPT;
+    Semelhante ao GPT;
+    Possibilidade de editar a pagina de resposta;
+    Os modelos são do GPT;
+
