@@ -63,3 +63,28 @@
     Possibilidade de editar a pagina de resposta;
     Os modelos são do GPT;
 
+
+10. Copilot: Manipulando diferentes arquivos (imagens, arquivos, gráficos, criação de imagens)
+
+    Conversa em tempo real com a IA;
+    para plainilhas não é eficiente;
+    para PDF tambem  não
+
+
+11. Copilot: Criando agentes de IA
+
+    Não permite envio de arquivo para aprendizado do agente;
+
+
+12. Copilot: Conhecendo as versões pagas
+
+    Copilot Pro:
+        Pessoa fisica
+        prioridade para novas atualizações
+        utilizar entro do office 365 
+    
+    Copilot 365:
+        Empresas
+        mesmos beneficios anterores
+        com uma maior segurança
+
