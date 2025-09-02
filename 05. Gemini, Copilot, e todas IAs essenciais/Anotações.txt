@@ -88,3 +88,42 @@
         mesmos beneficios anterores
         com uma maior segurança
 
+
+13. Claude: conhecendo a ferramenta
+
+    Rivaliza com ChatGPT;
+    Robusta sem muitas integrações;
+    Funcionamente basico, como no GPT;
+    Muito proximo ao GPT em termo de modelo;
+
+
+14. Claude: como configurar corretamente
+
+    Barra lateal com conversas;
+    Feture preview: Ferramentas em desenvolviento
+    Artefatos: Excuta codigos dentro da IA
+    "Muito utilizado para programadores"
+    Configurações: Seleção da sua profissão;
+
+
+15. Claude: Diferenças entre as versões gratuita e pagas
+
+    Pro:
+        Limite de uso 5x maior que o free;
+        Acesso a diferentes modelos;
+        criar projetos;
+        acesso prioritario, respostas mais rapidas;
+    
+    Team:
+        todos do pro;
+        um pouco mais de uso em relação ao pro;
+        pessoas do time podem acessar suas conversas;
+
+
+16. Claude: Criação de documentos e limites de uso da versão gratuita
+
+    Criação de Email.
+    "Muito boa resposta"
+    "Com a criação de documentos ele atingi o limite de resposta muito rapido"
+
+
