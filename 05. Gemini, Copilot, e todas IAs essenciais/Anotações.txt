@@ -127,3 +127,20 @@
     "Com a criação de documentos ele atingi o limite de resposta muito rapido"
 
 
+17. Claude: desvantagens
+
+    Não gera PDF;
+    Não exporta para word, excel;
+    Demora na geração de bases de dados;
+
+18. Claude: envio de arquivos e porque não analisar dados nele
+
+    Não suporta importação de arquivos Excel;
+    "Mutio melhor para analise de textos, imagens e programação"
+    "Analises com alguns dados errados"
+
+
+19. Claude: Artefatos, o grande diferencial dessa IA
+
+    Executa codigos em tempo real;
+
