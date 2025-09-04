@@ -144,3 +144,34 @@
 
     Executa codigos em tempo real;
 
+
+20. Claude: aplicações de artefatos em animações, aplicações web e mais
+
+    Animações com programação;
+
+
+21. Perplexity: Conhecendo a ferramenta
+
+    Objetivo especifico:
+        "Realizar pesquisas"
+    "Pesquisa no Google muito mais avaçada"
+    "Sem o vies do patrocinio"
+
+
+22. Perplexity: Focos e envio de arquivos
+
+    limite envios de arquivos e pesquisas pro (para contas free);
+    analisar PDF, Imgaens;
+    Pesquisas com Foco (cientifico, video, social, matematico);
+
+
+23. Perplexity: Discover e Playground - recursos incríveis do Perplexity
+
+    Discover: 
+        Mostra ultimas noticias baseado nas suas pesquisas;
+        Mudar foco das noticias;
+        Selecionar interesses;
+
+    Playground:
+        Repositorio onde podemos utilizar outros modelos de IA;
+        
