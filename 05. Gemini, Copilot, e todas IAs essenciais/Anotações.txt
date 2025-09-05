@@ -175,3 +175,27 @@
     Playground:
         Repositorio onde podemos utilizar outros modelos de IA;
         
+
+24. DeepSeek: Explicando o Fenômeno
+
+    Ainda esta atras dos oponentes, mas é muito promissor;
+    produziram uma IA desse tamanho com baixissimos custos, 2 a 3% do ChatGPT
+    Impactando todos os concorrentes;
+
+
+25. DeepSeek: Explicando a Ferramenta
+
+    Interface padrão;
+    Não cria imagens/PDF;
+    Não faz analise de arquivos muito bem;
+    Servidores ficam ocupados algumas vezes;
+
+
+26. Grok
+
+    IA do X
+    Interface padrão;
+    Recurso de pesquisa avançado: Deep Research;
+    Pensar: Deixar o modelo pensar pelo tempo necessario para responder (Resolver quetões logicas);
+    Permite desalitar aprendizado com suas conversas
+
