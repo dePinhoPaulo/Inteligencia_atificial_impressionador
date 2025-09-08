@@ -199,3 +199,26 @@
     Pensar: Deixar o modelo pensar pelo tempo necessario para responder (Resolver quetões logicas);
     Permite desalitar aprendizado com suas conversas
 
+
+27. Qwen, a IA do Alibaba
+
+    Rivalizar com DeepSeek;
+    Chinesa;
+    Acessos a varios modelos gratis;
+    Gerar Imagens e Videos;
+    Pré definições de prompts (Brainstorm, Programaçõa, imgaem, Video, etc...);
+
+
+28. Comparativo IAs gratuitas: ChatGPT x Gemini x Copilot x Claude x DeepSeek
+
+    Em um contexto geral, o ChatGPT ainda é o que mais se destaca;
+    para imagens: Copilot;
+
+
+29. Comparativo IAs pagas: ChatGPT x Gemini x Copilot
+
+    O mesmo vale para versões pagas, Tendo algumas ressalvas:
+        Gemini: 2TB de armazenamento, Mas não exporta arquivos;
+    
+    Então para o uso de anlista de dados o mais remomendados seria ChatGPT
+
