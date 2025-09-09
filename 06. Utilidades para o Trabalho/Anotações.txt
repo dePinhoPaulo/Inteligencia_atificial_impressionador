@@ -1,0 +1,28 @@
+1. Como ser mais produtivo no trabalho com IA
+
+    QuillBot:
+        Corrigir, Humnizar, Elaborar textos
+    ElevenLabs:
+        Dublar textos
+    Gamma:
+        Criar apresentações
+    ChatPDF:
+        Aprenda tudo que esta no PDF e se torna um agente
+
+
+2. NotebookLM: a melhor IA para estudos
+
+    IA do google;
+    Para estudantes;
+    Adiciona diversas fontes para o notebook e cria um agente com base naquelas fontes;
+    Resume em: Audio, Video, Mapa mental;
+
+
+3. Lovable: criação de aplicativos, sites e dashboards em segundos
+
+    Interface parecida com GPT;
+    Votado ára desenvolver Sites e Aplicativos;
+    Permite anexar arquivos;
+    Permite conectar a um Banco de dados noCode;
+    Permite publicar na Web, Hospedando seu site;
+
