@@ -26,3 +26,26 @@
     Permite conectar a um Banco de dados noCode;
     Permite publicar na Web, Hospedando seu site;
 
+
+4. Quillbot - corrigir e melhorar textos
+
+    Parafraseia o texto;
+    Statisticas do texto;
+    Co-Writer: Ajuda na escrita de textos;
+    Verificador de plagio;
+    Resumir textos;
+    Tradutor;
+
+
+5. Elevenlabs - dublar textos
+
+    Seleção de voz, Força, Estilo;
+    Criador de voz;
+    Clonador de sua voz;
+
+
+6. Chatpdf - conversar com um arquivo pdf
+
+    Treina um agente a partir do seu PDF;
+    Resume e mostra a principas perguntas;
+    
