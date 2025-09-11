@@ -48,4 +48,24 @@
 
     Treina um agente a partir do seu PDF;
     Resume e mostra a principas perguntas;
-    
+
+
+7. Learning AI - montar treinamentos
+
+    cria uma aplicação web com estrutura de cursos;
+    com aulas, pretica, questionario;
+
+  
+8. Mapify - explicar qualquer coisa com mapas mentais
+ 
+    Cria mapas mentais;
+    A partir de um prompt, PDF, Site, Youtube;
+    Salvar como imagem;
+
+
+9. Tutor AI - assistir cursos completos
+
+    Cria aulas apartir do prompt;
+    Divide as aulas em modulos;
+    Simplificar, Exemplos, questionario, Tirar duvidas;
+
