@@ -69,3 +69,18 @@
     Divide as aulas em modulos;
     Simplificar, Exemplos, questionario, Tirar duvidas;
 
+
+10. Gamma - gerar apresentações
+
+    Te ensina por slides;
+    Apresentçõse, Documentos, Paginas na Web;
+    Fazer alterações no slide, texto, imagens, layout;
+    Exportar, para Power Point, PDF.
+
+
+11. TLDV - resumir vídeo aulas e fazer ata de reuniões
+
+    Gravações de reuniões;
+    Transquição;
+    Resumo;
+
