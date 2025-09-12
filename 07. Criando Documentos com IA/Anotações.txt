@@ -1,0 +1,8 @@
+1. Contrato: não é só pedir “crie um contrato”
+
+    Utilizando GPT;
+    Elaborar um prompt completo, com o maximo de informações;
+    Ir construindo o contrato com a IA;
+    Explorar e extrair ao maximo da IA;
+    Engenharia de prompt.
+
