@@ -6,3 +6,28 @@
     Explorar e extrair ao maximo da IA;
     Engenharia de prompt.
 
+
+2. Contrato: montando estrutura
+
+    Apresentação, Explicação da vaga;
+    Explicação da necessidade, sequencia de perguntas;
+    Clausulas/Condiçoes;
+    Aprofundando alguns pontos, Exemplos;
+    Comparar os pontos levantados com outros contatratos feitos;
+    Desconsiderando topicos desnecessarios;
+    Ajustando resposta;
+    Esqueleto do contrato pronto.
+
+
+3. Contrato: revisão e criação do contrato 
+
+    Verificando Implicações legais, Regime de trabalho;
+    revisão;
+    criação do contrato (Modelo).
+
+
+4. Contrato: exportar para PDF e Word
+
+    Exportar para PDF;
+    Exportar como DOCX;
+    
