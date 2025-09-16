@@ -30,4 +30,19 @@
 
     Exportar para PDF;
     Exportar como DOCX;
+
+
+5. Planilha de fluxo de caixa: criando estrutura
+
+    pedindo informações que não podem faltar;
+    Solicitando a Planilha com o maximo de informações, Contexto, e exemplos;
+    Alimentando Planilha com dados ficticios;
+    alterações nas ordens das colunas, formatações, sugerir formulas;
+    Adicionando lista suspensa
+        Retornou ainstrução para criar;
+
+
+6. Planilha de fluxo de caixa: criando fórmulas e gráficos
+
+    Passo a passo para criar grafico;
     
