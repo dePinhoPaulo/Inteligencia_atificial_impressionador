@@ -45,4 +45,29 @@
 6. Planilha de fluxo de caixa: criando fórmulas e gráficos
 
     Passo a passo para criar grafico;
-    
+
+
+7. E-mail com informativo financeiro
+
+    Envio da planilha base;
+    Pedindo a analise da planilha;
+    pedindo a visão de algum tipo de melhoria;
+    Escrever o email de analise para a diretoria. Destacando pontos positivos, negativos e melhorias;
+    Refazendo os pontos de melhorias, Explicando passo a passo;
+    Destacando posntos positivos com gráficos;
+    Inserir gráficos no email e exportando.
+
+
+8. Relatório de estoque
+
+    Enviando planilha para analise;
+    Adicionando Coluna de Status, de acordo com a coluna quatidade;
+    Ajuste da coluna Origem, que esta no formato geografia:
+        Alterando Origem para texto;
+    Descrevendo objetivo do relatorio e suas partes, com o maximo de detalhes;
+    Aprovando estrutura enviada pela IA;
+    Juntando todas analises em um unico documento em PDF;
+    Ajustando graficos que não ficaram bom e tabelas extensas;
+    Ajuste das analises 2 e 3 que ficaram muito grande (Resumindo a tabela);
+    Exportação do novoa arquivo.
+
