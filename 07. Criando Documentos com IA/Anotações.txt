@@ -71,3 +71,19 @@
     Ajuste das analises 2 e 3 que ficaram muito grande (Resumindo a tabela);
     Exportação do novoa arquivo.
 
+
+9. Descritivo de vaga de emprego
+
+    Peguntando informações que deve ter no anuncio;
+    Descrevendo Cargo e suas tarefas;
+    Ajustes dos topicos apresentados;
+    Exportando para PDF.
+
+
+10. Formulário de satisfação
+
+    Perguntando quais topicos o formulario deve ter;
+    Ajuste dos topicos para ser anonimo, qual melhor ferramento para o formulario;
+    Gerando formulario para imprimir;
+    Exportando para PDF.
+
