@@ -87,3 +87,20 @@
     Gerando formulario para imprimir;
     Exportando para PDF.
 
+
+11. Apresentação empresarial
+
+    Descrevendo a necessidade, Apresentação sobre a importanci do horario na agenda;
+    Gerar imagens para os slides;
+    Exportando apresentações com imagens para Power Point;
+    Recursos visuais ainda não tão apurado, em termo de estetica não é tão bonito.
+
+    "Gamma: Ia de apresentação"
+
+
+12. Cronograma de obra
+
+    Descrevendo necessidade e como montar o Cronograma;
+    Ajustando prazos, especificando datas para cada atividade, com data de inicio e fim;
+    Ajustes das tarefas unificadas;
+    Exportanod tabela para Excel.
