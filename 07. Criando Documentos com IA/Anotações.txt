@@ -104,3 +104,18 @@
     Ajustando prazos, especificando datas para cada atividade, com data de inicio e fim;
     Ajustes das tarefas unificadas;
     Exportanod tabela para Excel.
+
+
+13. Manual de instruções
+
+    Explicando o passo a passo do manual;
+    Explicando detalhadamente e com o maximo de informações para cada manual;
+    Exportando para PDF.
+
+
+14. Questões de provas
+
+    Definindo tipos das questões, Enunciado e 4 alternativas, definindo o tema das perguntas;
+    Ajustando as dificuldades das perguntas, Facil, Medio e dificil;
+    Gerando gabarito.
+
