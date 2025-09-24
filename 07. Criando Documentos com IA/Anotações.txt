@@ -119,3 +119,19 @@
     Ajustando as dificuldades das perguntas, Facil, Medio e dificil;
     Gerando gabarito.
 
+
+15. Checklist de auditoria
+
+    Tipos de auditorias mais comum em empresas;
+    Definindo area da auditorio, Descrevendo a empresas e estar de acordo com as normas de auditoria;
+    listar todas informações que a empresas precisa disponibilizar;
+    
+
+16. Proposta técnica e comercial de serviços
+
+    diferença entre proposta e contrato, tipos de proposta que existe;
+    tipo do serviço e Desecrever todos os detalhes do serviço;
+    informações necessarias para elaborar proposta;
+    Deixar algumas informações em brancos para preencher, passar todas informações necessarias;
+    Exportar para Word.
+
