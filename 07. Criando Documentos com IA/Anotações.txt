@@ -135,3 +135,10 @@
     Deixar algumas informações em brancos para preencher, passar todas informações necessarias;
     Exportar para Word.
 
+
+17. Planos de ação
+
+    O que compõe um bom plano de ação?;
+    Como funciona o modelo de plano de ação 5w3h1s, existe outros?;
+    Desenhe o plano de ação no modelo 5w3h1s (Explicação da ação);
+
