@@ -142,3 +142,24 @@
     Como funciona o modelo de plano de ação 5w3h1s, existe outros?;
     Desenhe o plano de ação no modelo 5w3h1s (Explicação da ação);
 
+
+18. Texto de vendas
+
+    Descrevendo finalidade do texto e explicação do curso completa, pedindo 10 topicos que o texto para isso deveter e utilizando Persona (Especialista em Marketing);
+    Utilizar todos os topicos listados, gerando um texto para cada canal (email, Linkedin, Email) e gerar imagens para cada canal;
+    
+
+19. Script de vídeos
+
+    "Ainda utilizando o chat da aula anterior (Texto para venda do Curso de IA)"
+    5 Temas de reels para IA;
+    Roteiro para um dos temas;
+    criar script para video no youtube, 20 minutos, do mesmo tema;
+    
+    "SEMPRE USAR PERSONAS PARA TAREFAS CRIATIVAS"
+
+20. Pauta de reuniões
+
+    Apresentar todo o contexto e objetivo da reunião;
+    Descrevendo pontos principais da reunião, pedindo para melhorar os ponto e adicionar o que falta;
+    
