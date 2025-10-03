@@ -1,0 +1,41 @@
+1. Como instalar o Copilot PRO
+
+    110,00 R$/Mês
+    integração: Pacote 365
+
+    Excel:
+        Pagina Inicial > Copilot;
+        Somente com salvamento automatico habilitado;
+
+
+2. Analisando as informações em uma base de dados
+
+    Formatar base como tabela;
+    Prompt:
+        Qual a média salarial da empresa?;
+        Qual é a media salarial de cada finção?;
+        Quem é a pesso com o maior Salario?;
+        Qual folha salarial da empresa?;
+        Qual foi a ultima data de comtratação?;
+        Quais pessoas tiveram desempenho ruim?;
+        Qual salario medio das pessoas com desempho ruim?.
+
+    "Mostra o resultado e a formula utilizada, gráfico, tabeladinamica"
+
+
+3. Inserindo formatação condicional e criando colunas
+
+    Continuando com mesma planilha;
+    Prompt:
+        Quanto tempo em anos cada funcionario esta na empresa?;
+        Qual tempo medio em anos dos funcionarios na empresa?;
+        Filtre funcionarios contratados em 2014;
+        Destaque funcionarios duplicados;
+        Destaque toda linha dos funcionarios com desempenho ruim;
+        Limpe todas formatações condicionais;
+        Destaque todos funcionarios com salario maior que 10.000;
+        Insira uma coluna com a area de cada função. Busque essa informação na planilha de departamento;
+        Junte as colunas Função e Area. Criando uma nova coluna chama departamento.
+
+    "Inserindo coluna na tabela, filtra tabela, formatação condicional, Buscar dados em outra planilha (PROCX), coluna de concatenação"
+    "Em casos de duvidas botão de Mostrar Explicação"
