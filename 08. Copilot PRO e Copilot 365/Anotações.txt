@@ -39,3 +39,35 @@
 
     "Inserindo coluna na tabela, filtra tabela, formatação condicional, Buscar dados em outra planilha (PROCX), coluna de concatenação"
     "Em casos de duvidas botão de Mostrar Explicação"
+
+
+4. Analisando uma base de vendas
+
+    Prompt:
+        Qual foi o maior cliente em total de faturamento?
+        Em total de faturamento faça um rancking dos clientes.
+        Qual é a marca mais vendida em total de faturmento?
+        Qual melhor vendedor em total de faturamento?
+        Crie uma coluna em que seja informado a porcetagem do Custo de produção sob o Preço de venda.
+
+
+5. Analisando feedbacks com o Copilot
+
+    Planilha de Feedbacks de restaurante.
+
+    Prompt:
+        Quais os pontos de melhorias para este restaurante?
+
+
+    *Mostrar insights funciona como um resumo, com Tabela dinamica e Graficos;
+
+
+6. Criando colunas com o Copilot
+
+    Planilha de Treinamesnto para funcionarios.
+
+    Prompt:
+        Separa a coluna Cursos em colunas com cada curso aprensentado na base de dados.
+        Qauntos funcionarios fizeram o curso de Power Bi?
+        Qual a porcentagem dos funcionarios que fizeram o curso de SQL?
+
