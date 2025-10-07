@@ -71,3 +71,25 @@
         Qauntos funcionarios fizeram o curso de Power Bi?
         Qual a porcentagem dos funcionarios que fizeram o curso de SQL?
 
+
+7. Criando Textos no Word
+
+    Utilizar o icone do Copilot na pagina;
+    Não clicar na pagina durante a criação do texto, pois irá desconfigurar;
+    Traduzir texto para outras linguas;
+    Formatar como tabela;
+
+
+    Na aba de chat ao lado:
+        Criação de imagens, com botão de inserir irá para pagina;
+        resumir documento;
+
+
+8. Criando apresentações do zero apenas com um prompt
+
+    Utilizar o icone do Copilot na pagina;
+    Escolher tipos das apresentções;
+    Editar todo os slides;
+    alterar imagens;
+    Resumir apresentação;
+
