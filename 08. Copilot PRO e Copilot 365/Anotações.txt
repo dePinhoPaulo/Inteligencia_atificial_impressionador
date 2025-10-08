@@ -93,3 +93,19 @@
     alterar imagens;
     Resumir apresentação;
 
+
+9. Criando uma apresentação de um arquivo já existente
+
+    Criando Power Point a partir de um Word;
+    Word deve estar no oneDrive;
+    Copiar link e adicionar ao prompt do Power Point;
+
+
+10. Utilizando o Copilot dentro do Outlook
+
+    Funciona para Outlook Web e Desktop;
+    Utilizar o icone do Copilot na pagina;
+    Rascunho;
+    Criação de emails de acordo com o prompt;
+    Resumir emails;
+
