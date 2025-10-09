@@ -1,0 +1,15 @@
+1. O que são macros e qual IA usar para criá-las
+
+    Macros Funcionam em: Excel, Word, Power Point, Outlook
+    Alt + F11: Painel de Macros (VBA)
+    
+    "Altomatizar tarefas com macros"
+
+
+2. Diferença entre macros e eventos
+
+    Macros:
+        Ativado a partir de um botão por exemplo, tem um gatilho.
+
+    Eventos:
+        ativada sempre, sem ter um gatilho.
