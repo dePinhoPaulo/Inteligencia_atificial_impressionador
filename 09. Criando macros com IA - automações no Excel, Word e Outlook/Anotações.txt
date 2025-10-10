@@ -12,4 +12,32 @@
         Ativado a partir de um botão por exemplo, tem um gatilho.
 
     Eventos:
-        ativada sempre, sem ter um gatilho.
+        ativada assim que selecionar uma celula, sem ter um gatilho.
+        
+
+3. Como criar um evento VBA
+
+    Sempre especificar se é uma macro ou um evento;
+    E como esse codigo será ativado;
+
+    Prompt:
+        'Ao selecionar celular um celular em braco, pinte-a de amarelo...'
+
+
+4. Como criar uma macro VBA
+
+    Promt:
+        'Cria codigo VBA para remover caractereas especiais'
+
+    Macro sempre será adicionado em um Módulos
+    Evento sempre em Microsoft Objects
+
+
+5. Todos os principais eventos do VBA
+
+    Promt:
+        'Lista com todos eventos do VBA e breve explicação';
+        'Para cada um dos eventos, me uma ideia de Codigo VBA para ser feita naquele envento'
+    
+    Explação dos eventos
+
