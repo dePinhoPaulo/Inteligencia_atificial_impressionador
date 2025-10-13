@@ -41,3 +41,38 @@
     
     Explação dos eventos
 
+
+6. Código para mostrar mensagem de alerta ao selecionar planilha
+
+    Prompt:
+        "Crie um codigo VBA que irá exibir uma messangem de cuidado Informações confidenciais, toda vez que selecionar Planilha 2"
+        Evento - Sheet_Activate
+    
+
+7. Código para fazer validações de formulário (campo não preenchido, e-mail inválido)
+
+    Prompt:
+        "Decrever toda planilha com os campos que precisam ser respondidos e menssagens que será mostrada na celula abaixo da celula de resposta, verificar se email é valido, fazer calculo de idade"
+        Evento - WorkSheet_Change
+
+
+8. Código para pedir confirmação antes de abrir links
+
+    Prompt:
+        "Crie um Codigo VBA, que ao dar duplo clique, pergunte se eu desejo abrir o link."
+        Evento - WorkSheet_BeforeDoubleClick
+    
+
+9. Código para alternar visibilidade de gráficos com um clique
+
+    Prompt:
+        "Crie um Codigo VBA, que ao cliclar, em uma determiinada celula da planilha 1, esconda os graficos dela e vice e versa."
+        Evento - WorkSheet_SelectionChange
+
+
+10. Código para gerar backups automáticos no seu computador
+
+    Prompt:
+        "Crie um Codigo VBA, que toda vez que a fechar, crie uma copia na area de trabalho, seguido de data/hora de salvamento."
+        Evento - WorkSheet_BeforeClose
+    
