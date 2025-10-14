@@ -76,3 +76,23 @@
         "Crie um Codigo VBA, que toda vez que a fechar, crie uma copia na area de trabalho, seguido de data/hora de salvamento."
         Evento - WorkSheet_BeforeClose
     
+
+11. Código para pedir confirmação antes de excluir planilhas
+
+    Prompt:
+        "Crie um Codigo VBA, que toda vez que for que excluir a planilha exibiba uma tela de confirmação"
+        Evento - WorkSheet_BeforeDelete
+
+
+12. Códigos que funcionam logo que a planilha é criada ou selecionada
+
+    Prompt:
+        "Crie um Codigo VBA, que toda vez que selecionar a planilha Dashboard, esconda barra de formulas, cabeçalhos e fique no modo tela cheia, quando estiver nas outras fique no modo padrão"
+        Evento - WorkBook_SheetActivate
+
+
+13. Código para permitir edição somente se uma condição específica for atendida
+
+    Prompt:
+        "Crie um Codigo VBA, que que só permita alterar a coluna E se nas linhas que o valor da coluna D estiver com 'Sim'."
+        Evento - WorkSheet_Change
