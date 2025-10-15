@@ -96,3 +96,15 @@
     Prompt:
         "Crie um Codigo VBA, que que só permita alterar a coluna E se nas linhas que o valor da coluna D estiver com 'Sim'."
         Evento - WorkSheet_Change
+
+
+14. Automação Excel Outlook receber email quando estourar o orçamento
+
+    Prompt:
+        "Crie um Codigo VBA, que dispare um email quando o valor da celula C1 na planilha 1 atingir o valor 90%. 'CORPO DO EMAIL''"
+        Evento - WorkSheet_Change
+    
+
+15. Automações no Word
+
+    Explicação das automações.
