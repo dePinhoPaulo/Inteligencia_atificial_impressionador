@@ -108,3 +108,32 @@
 15. Automações no Word
 
     Explicação das automações.
+
+
+16. Verificação ortográfica automática antes de fechar
+
+    Word
+    
+    Prompt:
+        "Crie um Codigo VBA, que todas ves que fechar o arquivo execute uma verificação ortografica antes, objetivo: Não salvar arquivos com erros de ortografia"
+        "Para um arquivo Word"
+        Evento - Document_DocumentClose
+    
+
+17. Formatar documento sempre que abrir
+
+    Word
+    
+    Prompt:
+    "Crie um Codigo VBA, para Word, de fora que toda vez que eu abrir um documento ele deve aplicar uma formatação em todo documento: {FORMATAÇÃO}"
+    Evento - Document_Open
+
+
+18. Código para backup automático de documentos word
+
+    Word
+    
+    Prompt:
+    "Crie um Codigo VBA, para Word, que toda vez que eu fechar o arquivo, salve uma copia na area de trabalho com mesmo nome do original, data e hora"
+    Evento - Document_Close
+
