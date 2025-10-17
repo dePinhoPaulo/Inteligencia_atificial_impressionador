@@ -1,0 +1,22 @@
+1. O que é o Bardeen e como instalar
+
+    Versão free muito limitada;
+    precisa da versão pega 30$ mes;
+
+    playbook 
+        "Automação funciona a partir de um acionamento"
+    ou 
+    autobook
+        "Automação automatica (agendada)"
+    
+    "Funciona similar ao GPT, automações atraves de prompt (ingles)."
+
+    
+2. Enviando e-mail quando uma planilha é atualizada
+
+    Prompt:
+        "Envia email quando uma planilha é atualizada."
+        -Especificar Planilha (no seu drive);
+        -Inserir Email, Copia, Assunto, Corpo;
+        -Mostra logs de aterações
+
