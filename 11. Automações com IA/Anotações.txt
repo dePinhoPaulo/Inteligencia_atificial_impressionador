@@ -20,3 +20,41 @@
         -Inserir Email, Copia, Assunto, Corpo;
         -Mostra logs de aterações
 
+
+3. Enviar Whatsapp quando uma planilha é atualizada
+
+    Editar um autobook:
+        -Modify autobook
+    
+    "Ao excluir um passo do autobook mande um novo prompt para a nova etapa"
+    
+    prompt:
+        "Enviar uma menssagem no Whatsapp"
+        -Adicionar Numero para disparar;
+        -Editar menssagem;
+        -Adicionar nome e link da planilha;
+
+
+4. Enviando conteúdo adicionado na planilha por Whatsapp
+
+    Adicionar autobook:
+
+    prompt:
+        "Envie o conteúdo da linha que foi adicionado na planilha no Whatsapp"
+        -Especificar Planilha (no seu drive);
+        -Adicionar Numero que receberá;
+        -Editar menssagem;
+        -Adicionar nome, link e dados da planilha;
+
+
+5. Enviar SMS quando uma planilha é atualizada
+
+    Adicionar autobook:
+
+    prompt:
+        "Envia SMS quando tiver qualquer atualizacão na planilha."
+        -Especificar Planilha (no seu drive);
+        -Adicionar Numero que receberá;
+        -Editar menssagem;
+        -Adicionar nome e link planilha;
+
