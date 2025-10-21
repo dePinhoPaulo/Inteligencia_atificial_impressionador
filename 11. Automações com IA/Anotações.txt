@@ -58,3 +58,24 @@
         -Editar menssagem;
         -Adicionar nome e link planilha;
 
+
+6. Enviando um Whatsapp quando uma reunião começar
+
+    Adicionar autobook:
+
+    prompt:
+        "Enviar uma menssagem no Whatsapp quando a reunião começar"
+        -Email que a reunião está no calendar
+        -Adicionar Numero que receberá;
+        -Editar menssagem;
+
+
+7. Enviando eventos do calendário no Whatsapp
+
+    prompt:
+        "precure todo evento do meu calendario e me mande no Whatsapp"
+        -Email está no calendar (mesmo do Bardeen)
+        -Status
+        -Adicionar Numero que receberá;
+        -Editar menssagem;
+
