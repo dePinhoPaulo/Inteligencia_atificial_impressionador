@@ -79,3 +79,25 @@
         -Adicionar Numero que receberá;
         -Editar menssagem;
 
+
+8. Enviando eventos em uma só mensagem no Whatsapp
+
+    prompt:
+        "precure todos meus eventos do meu calendario e me mande no email"
+        -Email está no calendar (mesmo do Bardeen);
+        -Data inicio da checagem;
+        -Data final;
+        -Caractere separador da lista;
+        -Inserir Email, Copia, Assunto, Corpo;
+
+
+9. Enviar Whatsapp quando receber um e-mail específico
+
+    Adicionar autobook:
+
+    prompt:
+        "Enviar uma menssagem no Whatsapp quando receber um email"
+        -Assunto do email ou endereço Especifico;
+        -Adicionar Numero que receberá;
+        -Editar menssagem;
+        
