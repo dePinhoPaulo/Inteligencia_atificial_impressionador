@@ -100,4 +100,13 @@
         -Assunto do email ou endereço Especifico;
         -Adicionar Numero que receberá;
         -Editar menssagem;
-        
+
+
+10. Extraindo dados de um site
+
+    prompt:
+        "va para pagina de palestrantes e salve em uma lista"
+        -Manual
+        -Add menu clique-dereito
+        -Executar a automação na pagina, pelo menu clique-direito
+
