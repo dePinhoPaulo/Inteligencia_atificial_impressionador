@@ -110,3 +110,32 @@
         -Add menu clique-dereito
         -Executar a automação na pagina, pelo menu clique-direito
 
+
+11. Enviando email a partir de uma condição
+
+    prompt:
+        "se for inserido uma nova linha com texto específico ou o texto for alterado com texto específico, envie um email"
+        -Triger;
+        -Texto do triger;
+        -Inserir Email, Copia, Assunto, Corpo;
+
+
+12. Buscando vagas no Linkedin com o Bardeen
+
+    prompt:
+        "Faça uma varredura de dados desta pagina"
+        -Site;
+        -Quantidade de paginas ou posts (um dos dois);
+        -Add menu clique-dereito;
+        -Executar a automação na pagina, pelo menu clique-direito;
+
+
+13. Enviar uma mensagem no Slack quando receber um e-mail específico
+
+    prompt:
+        "Qaundo eu receber um email Especifico, me mande uma menssagem no Slack"
+        -Assunto do email;
+        -Email do remetente;
+        -Inserir mensagem;
+        -Usuario Slack;
+
