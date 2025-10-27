@@ -133,9 +133,29 @@
 13. Enviar uma mensagem no Slack quando receber um e-mail específico
 
     prompt:
-        "Qaundo eu receber um email Especifico, me mande uma menssagem no Slack"
+        "Quando eu receber um email Especifico, me mande uma menssagem no Slack"
         -Assunto do email;
         -Email do remetente;
         -Inserir mensagem;
         -Usuario Slack;
 
+
+14. Resumindo email com o ChatGPT
+
+    prompt:
+        "Quando eu receber um email Especifico, Envie ao ChatGPT para Resumir"
+        -Assunto do email;
+        -Email do remetente;
+        -Inserir mensagem;
+        -Modelo da IA
+        -Trigger para ser criado o um doc no google
+
+
+15. Enviando um email criado pelo ChatGPT
+
+    prompt:
+        "Em um momento Especifico, quero que o chatGPT crie um email e envie"
+        -Assunto do email;
+        -Email do remetente;
+        -Inserir mensagem;
+        
