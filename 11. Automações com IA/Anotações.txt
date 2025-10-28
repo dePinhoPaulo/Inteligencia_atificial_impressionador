@@ -158,4 +158,22 @@
         -Assunto do email;
         -Email do remetente;
         -Inserir mensagem;
-        
+
+
+16. Enviando um whatsapp criado pelo ChatGPT
+
+    prompt:
+        "Envie uma frase no whatsapp criado pelo ChatGPT"
+        -Trigger
+        -Prompt ChatGPT
+
+
+17. Enviando arquivos para uma pasta no Drive
+
+    prompt:
+        "Envie uma pasta no google drive o anexo de um email específico"
+        -Assunto do email;
+        -Email do remetente;
+        -Com anexo;
+        -Pasta no Drive;
+
