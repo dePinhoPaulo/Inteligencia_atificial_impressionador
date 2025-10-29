@@ -177,3 +177,30 @@
         -Com anexo;
         -Pasta no Drive;
 
+
+18. O que é o Make e como instalar
+
+    IA para automações;
+    Arrasar e soltar;
+    automações por gatilho ou ação (similar ao Bardeen);
+    Versão gratis mais vantagosa que Bardeen;
+    Templates (modelos publicos ja prontos);
+    Em ingles;
+    integração com mais de 2000 apps;
+
+
+19. Criando um Google forms para gerar a primeira automação;
+
+    Google Forms:
+        -Criar google forms;
+    Make:
+        -New scenario;
+        -Google Form -> Watch Responses;
+        -Create Connection:
+            -Nome da conexão;
+            -Conectar conta google;
+            -Id formulario (está entre o d/ e /edit do link);
+            -Limite de resultados a cada atualização;
+        -Escolher a partir de quando começar a automação;
+        -Save.
+        
