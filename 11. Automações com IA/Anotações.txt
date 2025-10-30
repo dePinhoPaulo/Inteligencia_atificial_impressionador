@@ -204,3 +204,50 @@
         -Escolher a partir de quando começar a automação;
         -Save.
         
+
+20. Inserindo informações no Sheets e demonstração de erros
+
+    Make:
+        -scenario Google forms (anterior);
+        -Add another module;
+        -Google Sheets -> Add a row;
+        -Create Connection:
+            -Nome da conexão;
+            -Compartilhado no my Drive;
+            -Id speedSheet;
+            -Sheet Name;
+            -Contem cabeçalhos?;
+            -Amarrar cada coluna da planilha com cada o valor de cada campo do formulario;
+        -Save;
+
+        *Compartilhar: qualquer pessoa com link;
+
+
+21. Enviando e-mails com o Make
+
+    Make:
+        -scenario Google forms (anterior);
+        -Add another module;
+        -Email -> Send a Email;
+        -Conection Type;
+        -Conectar ao Email;
+        -Salvar ou não os emails;
+        -Destinatario (amarrar com valor do campo do formulario);
+        -Assunto;
+        -Content type;
+        -Corpo (Amarrar os valores do formulario na contrução do email);
+        -Save;
+
+
+22. Adicionando um filtro na automação
+
+    Make:
+        -Cheve entre os modulos;
+        -Set as filter:
+            -Nome do filtro;
+            -Condição (Amarrar Valor do campo do formulario);
+            -Operador de texto (contem, igual, começa com, etc...);
+            -texto do filtro;
+        -Save
+        
+        *agendamento da automação: 15 em 15 min, todo dia, x horario, etc...
