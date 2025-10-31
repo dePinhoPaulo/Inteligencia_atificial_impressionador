@@ -251,3 +251,83 @@
         -Save
         
         *agendamento da automação: 15 em 15 min, todo dia, x horario, etc...
+
+
+23. Enviando mensagem no slack de forma automática
+
+    Excel:
+        -Habilitar salvamento automático
+
+    Make:
+        -New scenario;
+        -Microsoft 365 Excel -> List WorkSheets Rows;
+        -Create a Conection:
+            -Nome conexão;
+            -My drive (One Drive);
+            -File Id;
+            -Id WorkSheet (está entre o ? e & do link);
+            -WorkSheet Nme (aba);
+            -Pular linha em braco?;
+            -Limite;
+
+        -Add another module;
+        -Iterator:
+            -Row;
+            -Row coluna 1, Row coluna 2, etc..
+
+        -Add another module;
+        -Slack -> Create a Message:
+        -Create a Conection:
+            -Nome conexão;
+            -tipo do canal;
+            -Usuario;
+            -Texto (Menssagem utilizando concatenação dos valores iterador);
+        
+        -Set as filter:
+            -Nome do filtro;
+            -Condição (Amarrar Valor do campo do formulario);
+            -Operador de texto (contem, igual, começa com, etc...);
+            -texto do filtro;
+        
+        *Precisamos do iterador para quebrar os valores da planilha de cada coluna
+
+
+24. Enviando e-mail a partir de uma condição
+
+    Excel:
+        -Habilitar salvamento automático
+
+    Make:
+        -New scenario;
+        -Microsoft 365 Excel -> List WorkSheets Rows;
+        -Create a Conection:
+            -Nome conexão;
+            -My drive (One Drive);
+            -File Id;
+            -Id WorkSheet (está entre o ? e & do link);
+            -WorkSheet Nme (aba);
+            -Pular linha em braco?;
+            -Limite;
+
+        -Add another module;
+        -Iterator:
+            -Row;
+            -Row coluna 1, Row coluna 2, etc..
+
+        -Add another module;
+        -Email -> Send a Email;
+        -Conection Type;
+            -Conectar ao Email;
+            -Salvar ou não os emails;
+            -Destinatario;
+            -Assunto;
+            -Content type;
+            -Corpo (Amarrar os valores do iterador);
+
+        -Set as filter:
+            -Nome do filtro;
+            -Condição (Amarrar Valor do iterador);
+            -Operador de texto (contem, igual, começa com, etc...);
+            -texto do filtro;
+
+        -Save.
