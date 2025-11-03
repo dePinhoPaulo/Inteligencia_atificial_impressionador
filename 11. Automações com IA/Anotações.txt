@@ -331,3 +331,30 @@
             -texto do filtro;
 
         -Save.
+
+
+25. Enviando e-mails com condições diferentes
+
+    Make:
+    -scenario;
+
+     -Add another module;
+        -Email -> Send a Email;
+        -Conection Type;
+            -Conectar ao Email;
+            -Salvar ou não os emails;
+            -Destinatario;
+            -Assunto;
+            -Content type;
+            -Corpo (Amarrar os valores do iterador);
+
+    -Set as filter:
+            -Nome do filtro;
+            -Condição (Amarrar Valor do iterador);
+            -Operador de texto (contem, igual, começa com, etc...);
+            -texto do filtro;
+
+        -Save.
+
+    *Adicionando dois modulos de Envio de Email com dois filtros diferentes, tendo assim, 2 condições de envio.
+
