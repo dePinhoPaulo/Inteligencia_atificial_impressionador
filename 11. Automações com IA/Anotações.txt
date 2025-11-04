@@ -358,3 +358,66 @@
 
     *Adicionando dois modulos de Envio de Email com dois filtros diferentes, tendo assim, 2 condições de envio.
 
+
+26. Criando eventos no calendário do Google de forma automática
+
+    Make:
+        -New scenario;
+        -Microsoft 365 Excel -> Search Rows;
+        -Create a Conection:
+            -Nome conexão;
+            -My drive (One Drive);
+            -File Id;
+            -Id WorkSheet (está entre o ? e & do link);
+            -WorkSheet Nme (aba);
+            -Contem cabeçalho?;
+            -Range colunas;
+            -Filtro:
+                -Coluna;
+                -Operador;
+        
+        -Add another module;
+        -Google Calendar -> Create an event;
+        -Create a Conection:
+            -Nome conexão;
+            -Tipo evento;
+            -seu Calendar;
+            -Nome evento (Linkar planilha);
+            -começo evento (Linkar planilha, Data e inicio);
+            -Fim evento (Linkar planilha, Data e fim)
+        
+        -Save.
+
+
+27. Enviando um e-mail para confirmar o agendamento
+
+    Make:
+        -Add another module;
+        -Tools -> Set variable;
+            -Nome variavel;
+            -funções de Texto;
+            -split (Inserir coluna dos emails, caractere de separação);
+        
+        -Add another module;
+        -Email -> Send a Email;
+        -Conection Type;
+            -Conectar ao Email;
+            -Salvar ou não os emails;
+            -Destinatario (Amarrar os valores da variavel);
+            -Marcar map (considera que os valores são lista);
+            -Assunto (Amarrar os valores da variavel);
+            -Content type;
+            -Corpo (Amarrar os valores da variavel);
+        
+        -Add another module;
+        -Microsoft 365 Excel -> Update Rows;
+        -Create a Conection:
+            -Nome conexão;
+            -My drive (One Drive);
+            -File Id;
+            -Id WorkSheet (está entre o ? e & do link);
+            -WorkSheet Nme (aba);
+            -numero da linha (amarrar com a linha do modula anterior);
+            -Coluna de alteração (Agendado?, SIM - Está no calendario);
+        
+        -Save.
