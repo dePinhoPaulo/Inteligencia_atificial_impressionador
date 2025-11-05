@@ -1,0 +1,12 @@
+1. IAs que geram imagens e vídeos
+
+    Explicação do potencial de criação de imagens com IA
+
+
+2. Comparando imagens no Gemini e Copilot (versões gratuitas)
+
+    Aplicar tudo que ja foi aprendido nos prompts;
+
+    Utilizando Copilot, Gemini:
+        Copilot é mais preciso na criação e com uma quallidade um pouco melhor;
+
