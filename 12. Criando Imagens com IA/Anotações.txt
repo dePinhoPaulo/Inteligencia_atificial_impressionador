@@ -10,3 +10,9 @@
     Utilizando Copilot, Gemini:
         Copilot é mais preciso na criação e com uma quallidade um pouco melhor;
 
+
+3. Estilos de imagens
+
+    Muito importante definir o estilo da imagem;
+    "IA listar o estilos possiveis e escolher um deles para seu prompt"
+
