@@ -16,3 +16,12 @@
     Muito importante definir o estilo da imagem;
     "IA listar o estilos possiveis e escolher um deles para seu prompt"
 
+
+4. Leonardo – IA paga, porém grátis para testar
+
+    Lonerdo.IA:
+        150 Creditos a cada 6 horas;
+        Somente geração de imgaens;
+        Diversas opções de criação;
+        Para imagens com requisitos muitos especificos, não é tão recomendado;
+        
