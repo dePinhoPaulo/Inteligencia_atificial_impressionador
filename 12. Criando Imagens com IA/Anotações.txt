@@ -24,4 +24,33 @@
         Somente geração de imgaens;
         Diversas opções de criação;
         Para imagens com requisitos muitos especificos, não é tão recomendado;
-        
+
+
+5. Essa pessoa não existe - gerar imagens de pessoas
+
+    this person does not exist:
+        IA para criação de faces ficticias;
+        https://this-person-does-not-exist.com/pt
+
+
+6. Dall-e – aprofundando no gerador de imagens da Open AI
+
+    DALL-E 3:
+        Open AI;
+        Depois do mid journey, é a melhor IA de imagem;
+        "Dentro do GPT pago"
+
+
+7. Feedback via prompt na geração de imagens
+
+    Importancia de fazer prompts completos e o feedback das respostas da IA;
+    Unir FECTAP + Feedbacks;
+    "IA sempre tem muita dificuldade na criação de imagens de pessoas";
+
+
+8. Prompts FECTAP x Prompts descritivos
+
+    "Muito cuidado na criação de imagens com varias pessoas"
+    "recomendado um prompt muito bem detalhado e focado somente na pessoa"
+    "Para imagens é recomendado o Prompt Descritivo"
+
