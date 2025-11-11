@@ -54,3 +54,19 @@
     "recomendado um prompt muito bem detalhado e focado somente na pessoa"
     "Para imagens é recomendado o Prompt Descritivo"
 
+
+9. Midjourney - gerar imagens de altíssima qualidade
+
+    IA paga, mas tem versão gratuita;
+    versão gratuita:
+        No discord, mandar prompt no servidor;
+        Muito dificil de conseguir algo na versão gratis;
+    Recomendado Versão paga;
+
+
+10. Midjourney: comandos iniciais
+
+    Interface: É um servidor no Discord;
+    Enviar prompt: /imagine + prompt;
+    Variações de imagens: Botões de variação em baixo das imagens geradas;
+    
