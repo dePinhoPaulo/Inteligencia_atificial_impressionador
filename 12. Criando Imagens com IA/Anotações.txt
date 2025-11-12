@@ -69,4 +69,18 @@
     Interface: É um servidor no Discord;
     Enviar prompt: /imagine + prompt;
     Variações de imagens: Botões de variação em baixo das imagens geradas;
+
+
+11. Comandos avançados no Midjourney
+
+    Faq: /faq "Tira algumas duvidas";
+    Mesclar imagens: /blend "manipular a sua foto misturando com um cachorro";
+    Mudar proporção da img: prompt + --ar 16:9;
+    descreve o prompt para criar img: /describe + anexar arquivo;
+
+
+12. Refinando prompts no Midjourney
+
+    Refine sua prompts com o maximo de descrição possivel;
+    Sempre ter um foco;
     
