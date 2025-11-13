@@ -84,3 +84,24 @@
     Refine sua prompts com o maximo de descrição possivel;
     Sempre ter um foco;
     
+
+13. Turbinando o Midjourney com ChatGPT
+
+    Melhorar o prompt com GPT;
+    Buscar ideias, melhorias, estilos, etc..;
+
+
+14. Image FX - Gerando imagens gratuitas com Gmail
+
+    Ia do Google;
+    Totalmente gratuita;
+    Em ingles;
+    "Muito boa opção"
+
+
+15. Stable Diffusion Web
+
+    https://stablediffusionweb.com/pt;
+    aceita prompts em portuges;
+    Gratis (limite de creditos);
+    
