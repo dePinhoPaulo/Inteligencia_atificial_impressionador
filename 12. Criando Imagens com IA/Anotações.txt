@@ -104,4 +104,33 @@
     https://stablediffusionweb.com/pt;
     aceita prompts em portuges;
     Gratis (limite de creditos);
-    
+
+
+16. Flux Image
+
+    Gratis, (limite por creditos);
+    1 imagem por vez;
+    varios estilos de imgaem;
+    Descrever imagem com um prompt;
+
+
+17. OpenArt
+
+    Gratis, (limite por creditos);
+    propt positivo e negativo;
+    Seleção de estilos;
+    Referencia de poses;
+    inserir faces;
+    quantidade de imgens;
+    edição das imagens criadas;
+    adicionar elementos nas imagens;
+
+
+18. Adobe Firefly
+
+    creditos limitados;
+    prompts em portugues;
+    deixa a desejar em faces das pessoas;
+    adicionar texto nas imagens;
+    algumas edições limitadas na versão free;
+
