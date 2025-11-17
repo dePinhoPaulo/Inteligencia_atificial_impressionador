@@ -134,3 +134,21 @@
     adicionar texto nas imagens;
     algumas edições limitadas na versão free;
 
+
+19. Dream
+
+    Somente 1 imagem;
+    Esrilos de imagem;
+    "Não está no mesmo nivel das demais"
+
+
+20. NightCafe Studio
+
+    5 creditos;
+    Prompt em portugeus;
+    modelos diferente para criação da imagem;
+    Seleção de estilos;
+    Aumento da resolução;
+    Animação da imagem;
+    Ajuste de filtros;
+
