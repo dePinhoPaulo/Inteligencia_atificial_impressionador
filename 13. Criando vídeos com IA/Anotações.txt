@@ -1,0 +1,8 @@
+1. Sora (modelo do ChatGPT/Open AI)
+
+    Criação de video com IA gratis ainda não esta tão bom;
+    Recent: Videos criados pelo ususarios, com o prompt utilizado;
+    Folder: Separa vidoes criados em pastas;
+    Remix: gerar novo video atraves de uma criação;
+    Create: recortar video;
+
