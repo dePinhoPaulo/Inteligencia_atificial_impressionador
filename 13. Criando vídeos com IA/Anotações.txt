@@ -4,5 +4,19 @@
     Recent: Videos criados pelo ususarios, com o prompt utilizado;
     Folder: Separa vidoes criados em pastas;
     Remix: gerar novo video atraves de uma criação;
-    Create: recortar video;
+    Create: recortar video, adicionar varios clips em um;
+    
+
+2. Runway
+
+    Selção de modelos;
+    Mais indicado prompt em ingles;
+    Propts de video a partir de uma imagem;
+    Guia para garantir um prompt mais efetivo;
+    Exemplos de prompts de acordo com sua imagem;
+    Auto-complete de prompt;
+    Edição basica de video;
+    Motion Brush: animações em pontos especificos;
+    All tools: Diversas opções de criação;
+        Lip Sync: Sincronização do labio com dialogo;
 
