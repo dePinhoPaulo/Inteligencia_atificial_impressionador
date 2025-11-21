@@ -20,3 +20,17 @@
     All tools: Diversas opções de criação;
         Lip Sync: Sincronização do labio com dialogo;
 
+
+3. Invideo
+
+    10 min/semana -> free;
+    até 32 mil caracteres no prompt;
+    Aceita bem portugues;
+    Opções de criação de Shorts videos;
+    Varias opções de worflows de criação;
+    Aterar midias do video criado;
+    Utilizar as proprias fotos;
+    Editar a musica;
+    Editar script da narração;
+    Traduz o video criado para outro idioma;
+    
