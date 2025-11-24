@@ -33,4 +33,19 @@
     Editar a musica;
     Editar script da narração;
     Traduz o video criado para outro idioma;
-    
+
+
+4. Revid
+
+    Versão gratis;
+    Auto Mode: Automação para criar videos;
+    Search: Videos em alta TikTok;
+    Stories: Gerar um hitoria a partir de um tema;
+    Hooks: Chamadas para video;
+    Video a partir de um prompt ja pronto ou utilizar script generator;
+    Opções de criação: Estoque de videos, Suas Imagens, Imgens que se movem;
+    Seleção de voz;
+    Seleção de trilha;
+    Edição do video;
+    Exportar Video -> VERSÃO PAGA;
+
