@@ -49,3 +49,13 @@
     Edição do video;
     Exportar Video -> VERSÃO PAGA;
 
+
+5. HeyGen
+
+    Opções gratis;
+    Fazer um avatar seu, apartir de um video;
+    Criar avatar em movimeto ou parado;
+    Video original de pelo menos 3 min, ler instruções;
+    Edição dos videos;
+    Traduzir videos do avatar para outros idiomas;
+    
