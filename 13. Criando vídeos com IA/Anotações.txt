@@ -58,4 +58,15 @@
     Video original de pelo menos 3 min, ler instruções;
     Edição dos videos;
     Traduzir videos do avatar para outros idiomas;
+
+
+6. LTX Studio
+
+    versão gratis;
+    Videos gerados em ingles;
+    Ajuda na criação do prompt;
+    Opções de prompta partir do seu modelo;
+    Personalização dos personagens, vozes, cenarios, elementos do video;
+    Adiconar um personagem seu a partir de uma foto;
+    Edição cena a cena da criação;
     
