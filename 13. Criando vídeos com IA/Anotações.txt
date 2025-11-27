@@ -69,4 +69,22 @@
     Personalização dos personagens, vozes, cenarios, elementos do video;
     Adiconar um personagem seu a partir de uma foto;
     Edição cena a cena da criação;
+
+
+7. Flux
+
+    Versão gratis não é boa;
+    Criação mais simples, sem muitas opçõesde edição;
+    Geração de imagem e video;
+    Criação de video a paritr de imagem;
+
+
+8. OpenArt
+
+    Versão gratis não tão boa muito limitado;
+    Diversas opção de criação, Imgem, Storyteling, etc..;
+    Geração de videos a paritr de imgens;
+    Definir tamanho da imgem;
+    Edição das imgens, Add objetos, recortar, imagem para video, etc..;
+    Criação de avatar;
     
