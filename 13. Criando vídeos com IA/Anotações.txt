@@ -88,3 +88,13 @@
     Edição das imgens, Add objetos, recortar, imagem para video, etc..;
     Criação de avatar;
     
+
+9. Flow (usando VEO3, modelo do Gemini/Google)
+    Google, não é gratis;
+    Texto para video;
+    Frames para video;
+    Só ingles;
+    TV flow: todos videos da comunidade, com os prompts utilizado;
+    Seleção de modelo para criação;
+    Quantidade de videos na criação;
+    Editor de video com opções de Adiconar mais criações;
