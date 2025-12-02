@@ -98,3 +98,13 @@
     Seleção de modelo para criação;
     Quantidade de videos na criação;
     Editor de video com opções de Adiconar mais criações;
+
+
+10. Whisk (usando VEO3, modelo do Gemini/Google)
+
+    Tambem do Google;
+    Não tão realista como Flow;
+    Gratis;
+    Criar video por fotos: Assunto, ambiente, Estilo;
+    seleção de Proporção do video;
+    Gera imgens e a partir delas videos;
