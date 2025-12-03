@@ -1,0 +1,10 @@
+1. Qual IA usar para tratar dados?
+
+    Para dados a melhor hoje é o ChatGPT e Gemini;
+
+
+2. Tratando bases de dados
+
+    Trantando base de dados, lista de nomes e notas separados por uma barra;
+    ChatGPT Retorna toda base formatada em uma tabela;
+    
