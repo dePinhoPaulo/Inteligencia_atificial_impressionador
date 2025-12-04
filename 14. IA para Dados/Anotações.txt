@@ -8,3 +8,12 @@
     Trantando base de dados, lista de nomes e notas separados por uma barra;
     ChatGPT Retorna toda base formatada em uma tabela;
     
+
+3. Transformar bases de dados
+
+    Juntar diferentes anos das bases;
+    Cruzar dados de um base com outra;
+    Criar nova planilha com apenas com as coluna desejdas;
+    Filtrar base;
+    Adicionar colunas de calculos de outras colunas;
+    
